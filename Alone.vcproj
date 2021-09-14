@@ -120,6 +120,7 @@
 			UseOfMFC="0"
 			ATLMinimizesCRunTimeLibraryUsage="false"
 			CharacterSet="2"
+			ExcludeBuckets="8;9;10;12;13;15;16;18;20;21"
 			>
 			<Tool
 				Name="VCPreBuildEventTool"
