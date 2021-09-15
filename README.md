@@ -1,6 +1,7 @@
 # 7zWindowsCE
 Solution Files for Building Windows CE ARMv4i console from source code
-Prerequisites:
+
+Prerequisites for building your own binary:
 
 Visual Studio 2008 Pro ( https://archive.org/details/en_visual_studio_2008_professional_x86_dvd_x14-26326 )
 
