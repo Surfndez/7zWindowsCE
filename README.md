@@ -11,5 +11,7 @@ Windows CE 5.0: Standard Software Development Kit (SDK) ( https://www.microsoft.
 
 7-Zip Source code ( https://www.7-zip.org/download.html I used https://www.7-zip.org/a/7z1900-src.7z )
 
+I used a Windows 7 Pro SP1 x64 Virtual Machine to minimize complications with Visual Studio 2008 on Windows 10.
+
 Download 7z-AloneProjectFiles.zip and copy the Alone.vcproj and Alone7z.sln to 7z1900-src\CPP\7zip\Bundles\Alone7z to open the sln and build the solution. Upon sucess you can tweak the optimizations to your liking.
 I've included my unicode supported 7zr-releaseU.small.exe binary in the release as well. I optimized for small code over speed.
