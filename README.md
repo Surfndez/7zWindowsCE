@@ -13,5 +13,6 @@ Windows CE 5.0: Standard Software Development Kit (SDK) ( https://www.microsoft.
 
 I used a Windows 7 Pro SP1 x64 Virtual Machine to minimize complications with Visual Studio 2008 on Windows 10.
 
-Download 7z-AloneProjectFiles.zip and copy the Alone.vcproj and Alone7z.sln to 7z1900-src\CPP\7zip\Bundles\Alone7z to open the sln and build the solution. Upon sucess you can tweak the optimizations to your liking.
+Download 7z-AloneProjectFiles.zip and copy the Alone.vcproj and Alone7z.sln to 7z1900-src\CPP\7zip\Bundles\Alone7z to open the sln. Change from Debug to ReleaseU and build the solution. Upon sucess you can tweak the optimizations to your liking or take those settings over to another build.
+
 I've included my unicode supported 7zr-releaseU.small.exe binary in the release as well. I optimized for small code over speed.
